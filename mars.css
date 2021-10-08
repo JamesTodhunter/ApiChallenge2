@@ -1,0 +1,70 @@
+body {
+    background-image: url(./marsimg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 135vh;  
+}
+
+ .dirt{
+  max-width: 540px;
+  align-items: center;
+  
+}
+
+.dirt{
+   color: whitesmoke;
+   position: absolute;
+   right: -10px;
+   top: -1px;
+   font-size: x-large;
+    background-color: orangered;
+    color: aquamarine;
+    border-radius: solid;
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+#solInfo{
+    border-style: solid;
+    border-color: black;
+    background-color: orangered;
+    font-size: large;
+    font-family: courier, monospace;
+    color: aquamarine;
+}
+
+#solId{
+    border-style: solid;
+    border-color: black;
+    background-color: orangered;
+    font-family: courier, monospace;
+    font-size: larger;
+    color: aquamarine;
+}
+
+.nowThatWasJulie{
+    border: solid transparent;
+    border-radius: solid;
+   
+}
+.nowThatWasJulie:hover{
+    box-shadow: 0 0 2px, 1px rgba(0, 140, 186, 0.5);
+}
+
+
+
+.neverGiveupNeverSurrender{
+    position: fixed;
+    background-attachment: fixed;
+    max-width: 1100px;
+    max-height: 1100px;
+    width: 500px;
+    height: 500px;
+    bottom: -0px;
+    right: 100px;
+
+}
+
+
+
